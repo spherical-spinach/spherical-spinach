@@ -8,4 +8,5 @@ Proficient in the following techonologies:
 - RESTful API's
 - Python, Python Flask
 
-Latest cool project I developed: muvico.live (repo: https://github.com/MuViCo/MuViCo/)
+Latest cool project I developed: [muvico.live](https://muvico.live/) [repository](https://github.com/MuViCo/MuViCo/)
+
